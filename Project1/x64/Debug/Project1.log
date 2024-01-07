@@ -1,0 +1,8 @@
+﻿  源.cpp
+D:\新建文件夹\C++\source\repos\Project1\Project1\源.cpp(50,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\新建文件夹\C++\source\repos\Project1\Project1\源.cpp(52,33): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+D:\新建文件夹\C++\source\repos\Project1\Project1\源.cpp(52,56): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+D:\新建文件夹\C++\source\repos\Project1\Project1\源.cpp(52,68): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+D:\新建文件夹\C++\source\repos\Project1\Project1\源.cpp(52,80): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+D:\新建文件夹\C++\source\repos\Project1\Project1\源.cpp(52,92): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+  Project1.vcxproj -> D:\新建文件夹\C++\source\repos\Project1\x64\Debug\Project1.exe

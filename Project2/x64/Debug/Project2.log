@@ -1,0 +1,30 @@
+﻿  Project2.cpp
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(13,13): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(13,1): error C2365: “_wsetlocale”: 重定义；以前的定义是“函数”
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\wchar.h(49): message : 参见“_wsetlocale”的声明
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.h(3,1): warning C4005: “_WIN32_WINNT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\sdkddkver.h(223): message : 参见“_WIN32_WINNT”的前一个定义
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.h(4,1): warning C4005: “STRICT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(23): message : 参见“STRICT”的前一个定义
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(42,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(53,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(84,20): warning C4244: “参数”: 从“LPARAM”转换到“LONG”，可能丢失数据
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(87,41): warning C4244: “参数”: 从“LPARAM”转换到“BOOL”，可能丢失数据
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(87,33): warning C4244: “参数”: 从“WPARAM”转换到“BOOL”，可能丢失数据
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(94,46): warning C4244: “参数”: 从“LPARAM”转换到“BOOL”，可能丢失数据
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(94,38): warning C4244: “参数”: 从“WPARAM”转换到“BOOL”，可能丢失数据
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(89,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(243,9): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(330,51): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(330,48): warning C4838: 从“char”转换到“wchar_t”需要收缩转换
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(341,37): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(359,42): warning C4244: “参数”: 从“LPARAM”转换到“LONG”，可能丢失数据
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(412,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(498,22): warning C4477: “wprintf”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“BYTE *”
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(498,22): message : 请考虑在格式字符串中使用“%hs”
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(498,22): message : 请考虑在格式字符串中使用“%Ts”
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(498,22): message : Visual C++ 使用非标准语义时会出现此警告
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(553,1): warning C4297: “pr::IsRunAsAdministrator”: 假定函数不引发异常，但确实发生了
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(553,1): message : 在函数上指定了 __declspec(nothrow)、throw()、noexcept(true)或 noexcept
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(603,42): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据
+D:\新建文件夹\C++\source\repos\Project1\Project2\Project2.cpp(607,44): warning C4267: “=”: 从“size_t”转换到“USHORT”，可能丢失数据

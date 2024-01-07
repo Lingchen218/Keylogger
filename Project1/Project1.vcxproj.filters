@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\include">
+      <UniqueIdentifier>{dfa51e54-f930-44ba-af41-221b135ab2a6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="源1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="11\include\blast.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\crc32.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\crypt.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\deflate.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\gzguts.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\gzlog.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\infback9.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\inffast.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\inffix9.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\inffixed.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\inflate.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\inflate9.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\inftree9.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\inftrees.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\ioapi.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\iowin32.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\mztools.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\puff.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\trees.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\unzip.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\zconf.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\zfstream.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\zip.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\zlib.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\zran.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\zstream.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+    <ClInclude Include="11\include\zutil.h">
+      <Filter>源文件\include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="11\include\zconf.h.cmakein">
+      <Filter>源文件\include</Filter>
+    </None>
+    <None Include="11\include\zconf.h.in">
+      <Filter>源文件\include</Filter>
+    </None>
+    <None Include="11\include\zconf.h.included">
+      <Filter>源文件\include</Filter>
+    </None>
+    <None Include="11\include\zlib_how.html">
+      <Filter>源文件\include</Filter>
+    </None>
+  </ItemGroup>
+</Project>
